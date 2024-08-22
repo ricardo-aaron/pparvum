@@ -1,0 +1,14 @@
+sample_id	name	treatment	sample	replicate	replicate2
+A_S1_L001	A1	control	A	control_r1	c_r1
+B_S2_L001	A2	control	B	control_r2	c_r2
+C_S3_L001	A3	control	C	control_r3	c_r3
+D_S4_L001	B1	0.1 mg/l	D	glyph_01_r1	g0.1_r1
+E_S5_L001	B2	0.1 mg/l	E	glyph_01_r2	g0.1_r2
+F_S6_L001	B3	0.1 mg/l	F	glyph_01_r3	g0.1_r3
+G_S7_L001	C1	2 mg/l	G	glyph_20_r1	g2.0_r1
+H_S8_L001	C2	2 mg/l	H	glyph_20_r2	g2.0_r2
+I_S9_L001	C3	2 mg/l	I	glyph_20_r3	g2.0_r3
+J_S10_L001	D1	4 mg/l	J	glyph_40_r1	g4.0_r1
+K_S11_L001	D2	4 mg/l	K	glyph_40_r2	g4.0_r2
+L_S12_L001	D3	4 mg/l	L	glyph_40_r3	g4.0_r3
+
